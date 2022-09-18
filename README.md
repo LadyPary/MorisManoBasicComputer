@@ -1,7 +1,7 @@
 
 
 # <center> 🧠🖥 Moris Mano Basic Computer In Logisim</center>
-![assembly demo](pic.jpg)
+![cpu demo](pic.jpg)
 
 *ps: In case you didn't get the emojis, this is a CPU which is considered the brain of the computer. :)
 
